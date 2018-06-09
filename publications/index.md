@@ -2,8 +2,8 @@
 layout: page
 title: Publications
 excerpt: "Publications"
-image: shushruth.jpg
-feature: Background.jpg
+image: 
+ feature: Background.jpg
 ---
 
 \* Equal contribution / co-first author

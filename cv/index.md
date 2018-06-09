@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
- image: shushruth.jpg
+image: 
  feature: Background.jpg
 ---
 

@@ -3,9 +3,8 @@ layout: page
 title: Shushruth
 excerpt: “Shushruth“
 tags: [Jekyll, theme, responsive, blog, template]
-image:shushruth.jpg
-feature: Background.jpg
+image: 
+ feature: Background.jpg
 ---
 
-I am a postdoctoral fellow in the [Shadlen lab](https://www.shadlenlab.columbia.edu) at Columbia University in New York. 
-
+I am a postdoctoral fellow in the [Shadlen lab](https://www.shadlenlab.columbia.edu) at Columbia University in New York.
