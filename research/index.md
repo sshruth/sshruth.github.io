@@ -1,6 +1,6 @@
 ---
 layout: page
-title: From abstraction to action: Role of persistent activity
+title: From Abstraction to Action - the role of persistent activity
 excerpt: “Research”
 image:
   feature: Background.jpg
