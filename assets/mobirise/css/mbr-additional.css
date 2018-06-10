@@ -2755,6 +2755,102 @@ body {
 .cid-qUA17srld1 .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-qUAT1xbJuM {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qUAT1xbJuM h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qUAT1xbJuM p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-qUAT1xbJuM .card-img {
+  text-align: left;
+  background-color: #ffffff;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  padding: 3rem 2.5rem 0 2.5rem;
+}
+.cid-qUAT1xbJuM .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-qUAT1xbJuM .card-box {
+  padding: 0rem 2.5rem 3rem 2.5rem;
+  background-color: #ffffff;
+}
+.cid-qUAT444hkw {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-qUAT444hkw .content {
+    text-align: center;
+  }
+  .cid-qUAT444hkw .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qUAT444hkw .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-qUAT444hkw .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-qUAT444hkw .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-qUAT444hkw .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qUAT444hkw .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qUAT444hkw .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qUAT444hkw .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qUAT444hkw .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qUAT444hkw .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qUAT444hkw .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qUAT444hkw .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
 .cid-qUA17srld1 .navbar {
   background: #ffffff;
   transition: none;
